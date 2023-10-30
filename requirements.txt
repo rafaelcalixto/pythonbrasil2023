@@ -1,0 +1,14 @@
+ccxt==1.92.20
+emoji==2.0.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl
+matplotlib==3.5.2
+pandas==1.4.3
+scikit-learn==1.1.2
+seaborn==0.11.2
+sklearn==0.0
+spacy==3.4.1
+tensorflow==2.9.1
+tez==0.7.0
+torch==1.12.1
+transformers==4.21.1
+tweepy==4.10.0
